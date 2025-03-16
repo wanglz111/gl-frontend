@@ -1,0 +1,223 @@
+{
+  "nav": {
+    "title": "Quick Links",
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Premium Silk-like Fabric Manufacturer",
+      "subtitle": "Serving Global Fashion Brands"
+    },
+    "achievements": {
+      "years": "Years Experience",
+      "clients": "Global Brands",
+      "employees": "Employees",
+      "patents": "Innovation Patents"
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "Committed to Excellence",
+      "description": "We strive to provide the highest quality silk-like fabrics through continuous innovation and dedication to craftsmanship.",
+      "innovation": {
+        "title": "Innovation Driven",
+        "desc": "Continuous R&D investment, leading industry technological innovation"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "desc": "Eco-friendly production processes, reducing carbon emissions"
+      },
+      "quality": {
+        "title": "Quality Promise",
+        "desc": "Strict quality management system ensuring international standards"
+      }
+    },
+    "brands": {
+      "title": "Trusted by Global Brands",
+      "subtitle": "Collaborating with Industry Leaders"
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Our Products",
+      "subtitle": "Innovative textile solutions for a sustainable future"
+    },
+    "categories": {
+      "title": "Product Categories",
+      "subtitle": "Explore our comprehensive range of textile products",
+      "functional": {
+        "name": "Functional Fabrics",
+        "desc": "Advanced technology for high-performance sports and outdoor fabrics",
+        "features": [
+          "Waterproof & Breathable",
+          "Stretch Comfort",
+          "Anti-bacterial"
+        ]
+      },
+      "sustainable": {
+        "name": "Eco-friendly Fabrics",
+        "desc": "Using recycled materials for sustainable fashion",
+        "features": [
+          "Organic Cotton",
+          "Recycled Polyester",
+          "Bio-based Materials"
+        ]
+      },
+      "fashion": {
+        "name": "Fashion Fabrics",
+        "desc": "Following trends, leading fabric design innovation",
+        "features": [
+          "Print Design",
+          "Special Process",
+          "Innovative Texture"
+        ]
+      }
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Discover our most popular and innovative solutions"
+    },
+    "innovation": {
+      "title": "Innovative Technology",
+      "subtitle": "Continuous Innovation, Pursuit of Excellence",
+      "equipment": {
+        "title": "Advanced Equipment",
+        "desc": "Global top textile equipment ensuring product quality"
+      },
+      "rd": {
+        "title": "R&D Center",
+        "desc": "Professional laboratory for new materials and processes"
+      },
+      "quality": {
+        "title": "Quality Control",
+        "desc": "Comprehensive monitoring from raw materials to finished products"
+      }
+    },
+    "custom": {
+      "title": "Custom Service",
+      "subtitle": "Tailored Fabric Solutions for You",
+      "analysis": {
+        "title": "Requirement Analysis",
+        "desc": "Professional team understanding your needs"
+      },
+      "solution": {
+        "title": "Solution Design",
+        "desc": "Customized development meeting your requirements"
+      },
+      "guarantee": {
+        "title": "Quality Guarantee",
+        "desc": "Strict quality control process meeting international standards"
+      },
+      "contact": "Contact Us for Custom Service"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Heritage & Innovation",
+      "subtitle": "25 years of excellence in textile research and manufacturing"
+    },
+    "story": {
+      "title": "Our Story",
+      "content1": "Founded in 1998, Green Leaf Textile has grown from a small fabric processing plant to an industry leader. We maintain our commitment to quality first and innovation-driven development, establishing a strong brand image in the global textile industry.",
+      "content2": "Through continuous technological innovation and process improvements, we have evolved into a modern enterprise with a complete industrial chain, with products exported to high-end markets in Europe, America, Japan, and Korea."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To provide the highest quality textile solutions to global customers through continuous innovation and excellence, leading sustainable industry development."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To become a leading innovative textile enterprise globally, driving technological innovation and promoting sustainable fashion development."
+    },
+    "competence": {
+      "title": "Core Competencies",
+      "subtitle": "Continuous innovation and pursuit of excellence for superior quality",
+      "rd": {
+        "title": "R&D Innovation",
+        "desc": "Professional R&D team with annual investment exceeding 5% of revenue, driving continuous product innovation"
+      },
+      "quality": {
+        "title": "Quality Control",
+        "desc": "ISO9001 certified quality management system with full process traceability"
+      },
+      "service": {
+        "title": "Global Service",
+        "desc": "Established global service network providing rapid response and localized support"
+      }
+    },
+    "certification": {
+      "title": "Certifications",
+      "subtitle": "International standards, quality assurance"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We are ready to provide you with professional service and support"
+    },
+    "info": {
+      "headquarters": {
+        "title": "Headquarters",
+        "address": "328 Xinghu Street, Suzhou Industrial Park, Jiangsu, China"
+      },
+      "phone": {
+        "title": "Phone",
+        "hours": "Business Hours: Mon-Fri 9:00-18:00"
+      },
+      "email": {
+        "title": "Email"
+      }
+    },
+    "form": {
+      "title": "Send Inquiry",
+      "company": "Company Name",
+      "contact": "Contact Person",
+      "email": "Email",
+      "phone": "Phone",
+      "product": {
+        "title": "Product Type",
+        "placeholder": "Select Product Type",
+        "options": {
+          "fabric": "Fabric",
+          "textile": "Textile",
+          "other": "Other"
+        }
+      },
+      "message": "Message",
+      "submit": "Submit Inquiry"
+    },
+    "offices": {
+      "title": "Global Offices",
+      "subtitle": "We have offices in major markets worldwide to provide localized service",
+      "china": {
+        "title": "China Headquarters",
+        "address": "328 Xinghu Street, Suzhou Industrial Park"
+      },
+      "europe": {
+        "title": "Europe Office",
+        "address": "Business District, Hamburg, Germany"
+      },
+      "asia": {
+        "title": "Asia Office",
+        "address": "Business District, Tokyo, Japan"
+      }
+    }
+  },
+  "company_desc_footer": "Professional silk-like fabric manufacturer, dedicated to providing quality textile solutions for global customers.",
+  "footer": {
+    "company": "Company",
+    "about": "About Us",
+    "products": "Products",
+    "contact": "Contact",
+    "support": "Support",
+    "faq": "FAQ",
+    "shipping": "Shipping",
+    "returns": "Returns",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 Green Leaf Textile. All rights reserved."
+  }
+}

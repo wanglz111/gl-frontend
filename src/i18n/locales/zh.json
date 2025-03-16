@@ -1,0 +1,223 @@
+{
+  "nav": {
+    "title": "快速链接",
+    "home": "首页",
+    "products": "产品",
+    "about": "关于",
+    "contact": "联系"
+  },
+  "company_desc_footer": "专业仿真丝面料制造商，致力于为全球客户提供优质纺织解决方案。",
+  "footer": {
+    "company": "公司",
+    "about": "关于我们",
+    "products": "产品",
+    "contact": "联系我们",
+    "support": "支持",
+    "faq": "常见问题",
+    "shipping": "物流配送",
+    "returns": "退换货",
+    "legal": "法律",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "copyright": "© 2024 绿叶纺织. 保留所有权利."
+  },
+  "home": {
+    "hero": {
+      "title": "优质仿真丝面料制造商",
+      "subtitle": "服务全球时尚品牌"
+    },
+    "achievements": {
+      "years": "年行业经验",
+      "clients": "全球品牌客户",
+      "employees": "员工规模",
+      "patents": "创新专利"
+    },
+    "values": {
+      "title": "我们的核心价值",
+      "subtitle": "追求卓越",
+      "description": "我们通过持续创新和对工艺的专注，致力于提供最高品质的仿真丝面料。",
+      "innovation": {
+        "title": "创新驱动",
+        "desc": "持续研发投入，引领行业技术创新"
+      },
+      "sustainability": {
+        "title": "可持续发展",
+        "desc": "环保生产工艺，减少碳排放"
+      },
+      "quality": {
+        "title": "品质承诺",
+        "desc": "严格质量管理体系，确保国际标准"
+      }
+    },
+    "brands": {
+      "title": "全球品牌的信赖之选",
+      "subtitle": "与行业领导者合作"
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "我们的产品",
+      "subtitle": "为可持续未来提供创新纺织解决方案"
+    },
+    "categories": {
+      "title": "产品类别",
+      "subtitle": "探索我们全面的纺织产品系列",
+      "functional": {
+        "name": "功能性面料",
+        "desc": "采用先进技术，打造高性能运动户外面料",
+        "features": [
+          "防水透气",
+          "舒适弹力",
+          "抗菌防护"
+        ]
+      },
+      "sustainable": {
+        "name": "环保面料",
+        "desc": "使用再生材料，践行可持续时尚",
+        "features": [
+          "有机棉",
+          "再生聚酯",
+          "生物基材料"
+        ]
+      },
+      "fashion": {
+        "name": "时尚面料",
+        "desc": "紧跟潮流，引领面料设计创新",
+        "features": [
+          "印花设计",
+          "特殊工艺",
+          "创新质地"
+        ]
+      }
+    },
+    "featured": {
+      "title": "精选产品",
+      "subtitle": "发现我们最受欢迎和创新的解决方案"
+    },
+    "innovation": {
+      "title": "创新工艺",
+      "subtitle": "持续创新，追求卓越，为客户提供高品质面料解决方案",
+      "equipment": {
+        "title": "先进设备",
+        "desc": "引进全球顶尖纺织设备，确保产品品质的稳定性和一致性"
+      },
+      "rd": {
+        "title": "研发中心",
+        "desc": "配备专业实验室，持续进行新材料、新工艺的研发和测试"
+      },
+      "quality": {
+        "title": "质量控制",
+        "desc": "严格的质量管理体系，从原料到成品的全程监控"
+      }
+    },
+    "custom": {
+      "title": "定制服务",
+      "subtitle": "为您量身定制专属面料解决方案",
+      "analysis": {
+        "title": "需求分析",
+        "desc": "专业团队深入了解您的具体需求，提供个性化建议"
+      },
+      "solution": {
+        "title": "方案定制",
+        "desc": "根据需求定制开发方案，确保满足您的各项要求"
+      },
+      "guarantee": {
+        "title": "品质保证",
+        "desc": "严格的质量控制流程，确保产品符合国际标准"
+      },
+      "contact": "联系我们定制"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "传承与创新",
+      "subtitle": "25年专注面料研发与制造"
+    },
+    "story": {
+      "title": "我们的故事",
+      "content1": "绿叶纺织创立于1998年，从一家小型面料加工厂发展成为今天的行业领军企业。我们始终秉持'质量第一、创新驱动'的理念，在全球纺织行业树立了良好的品牌形象。",
+      "content2": "通过持续的技术创新和工艺改进，我们已发展成为一个拥有完整产业链的现代化企业，产品远销欧美、日韩等高端市场。"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "content": "通过持续创新和卓越品质，为全球客户提供最优质的纺织面料解决方案，引领行业可持续发展。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "content": "成为全球领先的创新型纺织企业，引领行业技术革新，推动可持续时尚发展。"
+    },
+    "competence": {
+      "title": "核心竞争力",
+      "subtitle": "持续创新与精益求精，铸就卓越品质",
+      "rd": {
+        "title": "研发创新",
+        "desc": "拥有专业研发团队，年均研发投入占比5%以上，持续推动产品创新"
+      },
+      "quality": {
+        "title": "品质管控",
+        "desc": "通过ISO9001质量管理体系认证，建立全流程质量追溯系统"
+      },
+      "service": {
+        "title": "全球服务",
+        "desc": "建立全球化服务网络，为客户提供快速响应和本地化支持"
+      }
+    },
+    "certification": {
+      "title": "资质认证",
+      "subtitle": "国际标准，品质保证"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "联系我们",
+      "subtitle": "我们随时准备为您提供专业的服务和支持"
+    },
+    "info": {
+      "headquarters": {
+        "title": "总部地址",
+        "address": "中国江苏省苏州市工业园区星湖街328号"
+      },
+      "phone": {
+        "title": "联系电话",
+        "hours": "工作时间：周一至周五 9:00-18:00"
+      },
+      "email": {
+        "title": "电子邮箱"
+      }
+    },
+    "form": {
+      "title": "发送询价",
+      "company": "公司名称",
+      "contact": "联系人",
+      "email": "电子邮箱",
+      "phone": "联系电话",
+      "product": {
+        "title": "产品类型",
+        "placeholder": "请选择产品类型",
+        "options": {
+          "fabric": "面料",
+          "textile": "纺织品",
+          "other": "其他"
+        }
+      },
+      "message": "留言内容",
+      "submit": "提交询价"
+    },
+    "offices": {
+      "title": "全球办事处",
+      "subtitle": "我们在全球主要市场设有办事处，为客户提供本地化服务",
+      "china": {
+        "title": "中国总部",
+        "address": "苏州工业园区星湖街328号"
+      },
+      "europe": {
+        "title": "欧洲办事处",
+        "address": "德国汉堡市商务区"
+      },
+      "asia": {
+        "title": "亚洲办事处",
+        "address": "日本东京市商务区"
+      }
+    }
+  }
+}
