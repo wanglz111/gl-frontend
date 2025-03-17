@@ -11,6 +11,7 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "framer-motion": "^12.5.0",
+    "gl-frontend": "file:",
     "i18next": "^24.2.3",
     "i18next-browser-languagedetector": "^8.0.4",
     "next": "15.2.2",

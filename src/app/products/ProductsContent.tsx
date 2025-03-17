@@ -28,7 +28,7 @@ const ProductsContent = () => {
   const getFeaturesArray = (key: string): string[] => {
     try {
       const features = t(key, { returnObjects: true });
-      return Array.isArray(features) ? features : defaultFeatures;
+      return Array.isArray(features) ? features.filter((item): item is string => typeof item === 'string') : defaultFeatures;
     } catch (error) {
       console.error(`Error getting features for key ${key}:`, error);
       return defaultFeatures;
